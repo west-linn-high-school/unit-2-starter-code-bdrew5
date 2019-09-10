@@ -13,9 +13,8 @@ public class Geometry
         final double PI = 3.14;
         
         System.out.println("A heptagon " +sides + " sides.");
-        
-        int sides = 10;
-        
         System.out.println("A decagon has " +sides + " sides.");
+        System.out.println("A dodecagon has " +sides + " sides.");
+        System.out.println("The circumference of a circle with a radius of " +radius+ "is " +PI);
     }
 }
